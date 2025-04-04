@@ -69,7 +69,7 @@ const Portfolio = () => {
 
                     </Grid>
                     <Grid item xs={12} md={6}>
-                        <img src="/profile.jpg" alt="Profile" style={{ width: "80%", borderRadius: "10px" }} />
+                        <img src="//images/profile.jpg" alt="Profile" style={{ width: "80%", borderRadius: "10px" }} />
                     </Grid>
                 </Grid>
             </Container>
@@ -139,7 +139,7 @@ const Portfolio = () => {
 
                 <br /><br />
                 <Grid item xs={6} md={4}> <center>
-                    <img src="/profile2.jpg" alt="Profile" style={{ width: "40%", borderRadius: "10px" }} />
+                    <img src="//images/profile2.jpg" alt="Profile" style={{ width: "40%", borderRadius: "10px" }} />
                 </center>
                 </Grid>
             </Container>
